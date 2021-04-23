@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project is a recreation from react beginner tutorial 
+
+This project is a recreation from react beginner tutorial using the Edamam API( https://developer.edamam.com/)
 ## Available Scripts
 
 In the project directory, you can run:
